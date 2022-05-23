@@ -4,7 +4,11 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/Jacks/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_main.xml" value="0.22" />
-        <entry key="..\:/Users/alex_/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_main2.xml" value="0.264" />
+        <entry key="..\:/Users/alex_/AndroidStudioProjects/LogoApp/app/src/main/res/drawable-v24/BOTON_foreground.xml" value="0.2295" />
+        <entry key="..\:/Users/alex_/AndroidStudioProjects/LogoApp/app/src/main/res/drawable/BOTON_background.xml" value="0.1845" />
+        <entry key="..\:/Users/alex_/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_main.xml" value="0.12158054711246201" />
+        <entry key="..\:/Users/alex_/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_main2.xml" value="0.2" />
+        <entry key="..\:/Users/alex_/AndroidStudioProjects/LogoApp/app/src/main/res/mipmap-anydpi-v26/BOTON.xml" value="0.1085" />
         <entry key="..\:/Users/marco/AndroidStudioProjects/LogoApp/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2535" />
         <entry key="..\:/Users/marco/AndroidStudioProjects/LogoApp/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2535" />
         <entry key="..\:/Users/marco/AndroidStudioProjects/LogoApp/app/src/main/res/layout/activity_main.xml" value="0.2" />
